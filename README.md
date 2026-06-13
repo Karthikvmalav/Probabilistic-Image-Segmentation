@@ -1,4 +1,68 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/C_yrNUb3)
+# Probabilistic Image Segmentation
+
+A collection of classical machine learning techniques implemented from scratch, including Principal Component Analysis (PCA) and Gaussian Mixture Models (GMM).
+
+The project focuses on dimensionality reduction, unsupervised learning, and probabilistic image segmentation.
+
+## Features
+
+### Principal Component Analysis
+
+* Eigenvalue decomposition based PCA
+* Dimensionality reduction
+* Data reconstruction
+* Explained variance analysis
+* Classification performance evaluation
+
+### Gaussian Mixture Models
+
+* Expectation-Maximization (EM) algorithm
+* Soft clustering
+* Likelihood tracking
+* Probabilistic assignments
+* Image segmentation
+
+## Applications
+
+### Satellite Image Segmentation
+
+Gaussian Mixture Models are used to separate regions such as:
+
+* Land
+* Water
+* Vegetation
+
+### Dimensionality Reduction
+
+PCA is evaluated on image datasets to study:
+
+* Information retention
+* Reconstruction quality
+* Impact on downstream classification
+
+## Technologies
+
+* Python
+* NumPy
+* Matplotlib
+* Scikit-Learn
+* Jupyter Notebook
+
+## Key Learnings
+
+* Probabilistic modeling
+* Expectation-Maximization
+* Covariance estimation
+* Dimensionality reduction
+* Unsupervised learning
+
+## Future Work
+
+* Variational Gaussian Mixtures
+* Spectral Clustering
+* Bayesian PCA
+* Semantic Segmentation
+
 
 https://iiithydresearch-my.sharepoint.com/:f:/g/personal/karthikvenkat_m_research_iiit_ac_in/EvnU2hgUyQFCrMVKhOx__V0BW3rt5I6d3LIcSHd8bIuHrA?e=WEZnho
 
